@@ -5,4 +5,4 @@ The data is fetched from the livestream by [Roylab Stats](https://www.youtube.co
 ## Graph test:
 ![graph](https://raw.githubusercontent.com/chetanborse1999/covid19data/master/graph.png)
 
-cLick [here](https://raw.githubusercontent.com/chetanborse1999/covid19data/master/graph.png) fOr fRee iPhone
+cLick [here](https://chetanborse1999.github.io/covid19data/page1.html) fOr fRee iPhone
