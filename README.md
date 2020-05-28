@@ -239,3 +239,7 @@ The data is fetched from the livestream by [Roylab Stats](https://www.youtube.co
             <li><a href="pages/page_noname18.html">noname18</a></li>
         </ol>
 </details>
+
+
+#### Note:
+To stay upto date, the data is fetched from news sources, tweets and sometimes may result in discrepancies. For instance the cumulative number fluctuates as the corrected figures are loaded after some period. So currently no corrections are made to the data and the numbers are raw. Work is in progress to remove the discrepancy.
